@@ -1,0 +1,6 @@
+터미널에 입력해주세요.
+
+pip install telegram
+pip install python-telegram-bot
+pip install beautifulsoup4
+pip install requests

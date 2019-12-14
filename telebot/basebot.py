@@ -7,7 +7,8 @@ from uuid import uuid4
 import logging
 import time
 
-updater = Updater(token='1067399790:AAGYnjc22lE5Q5-7rUCMtizTPGari2z8-zA', use_context=True)
+#'Token'에 자신의 텔레그램 HTTPS API를 입력하여 주세요.
+updater = Updater(token='Token', use_context=True)
 dispatcher = updater.dispatcher
 updater.start_polling()
 
