@@ -1,4 +1,4 @@
-# telegrambot (클라우드를 이용한 텔레그램 챗봇 만들기)
+# 클라우드를 이용한 텔레그램 챗봇 만들기
 
 <p align="center">
   <img src="https://systemscue.it/wp-content/uploads/2016/02/telegram_bot.jpg" width="600" height="450">
